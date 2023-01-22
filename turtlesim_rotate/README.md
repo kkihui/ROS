@@ -3,8 +3,7 @@
 $ git clone https://github.com/kkihui/ROS/tree/main/turtlesim_rotate.git
 
 $ cd ~catkin_ws && catkin_make
-
-or (if you did setting)
+(if you did setting, you can use)
 $ cm
 
 $ source /opt/ros/melodic/setup.bash
