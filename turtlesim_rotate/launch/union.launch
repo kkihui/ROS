@@ -1,0 +1,5 @@
+<launch>
+  <node pkg="turtlesim" type="turtlesim_node" name="turtlesim"/>
+  <node pkg="turtlesim_rotate" type="calculator_turtlesim.py"  name="calculator" />
+  <node pkg="turtlesim_rotate" type="publisher_turtlesim.py"  name="publisher" output="screen"/>
+</launch>
