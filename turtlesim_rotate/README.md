@@ -1,3 +1,13 @@
-# ROS
+# Usage (사용법)
 
-ROS 작업한 것들 올려두는 곳
+$ git clone https://github.com/kkihui/ROS/edit/main/turtlesim_rotate.git
+
+$ cd ~catkin_ws && catkin_make
+or (if you did setting)
+$ cm
+
+$ source /opt/ros/melodic/setup.bash
+or
+$ source ~/.bashrc
+
+$ roslaunch turtlesim_roatate union.launch
