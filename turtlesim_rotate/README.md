@@ -10,3 +10,5 @@ or
 $ source ~/.bashrc
 
 $ roslaunch turtlesim_roatate union.launch
+
+enter the velocity, radius and direction!
