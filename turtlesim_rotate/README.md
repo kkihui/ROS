@@ -9,7 +9,7 @@ $ source /opt/ros/melodic/setup.bash
 or
 $ source ~/.bashrc
 
-$ roslaunch turtlesim_roatate union.launch
+$ roslaunch turtlesim_rotate union.launch
 
 😀 enter the velocity, radius and direction! 😀
 
