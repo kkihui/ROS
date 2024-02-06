@@ -1,22 +1,15 @@
 # Usage (사용법)
 
-$ git clone https://github.com/kkihui/ROS/tree/main/turtlesim_rotate.git
-
-$ cd ~catkin_ws && catkin_make
-(if you did setting, you can use $ cm)
-
-$ source /opt/ros/melodic/setup.bash
-or
-$ source ~/.bashrc
-
-$ roslaunch turtlesim_rotate union.launch
-
+$ git clone https://github.com/kkihui/ROS/tree/main/turtlesim_rotate.git <br>
+$ cd ~catkin_ws && catkin_make <br>
+(if you did setting, you can use $ cm) <br> <br>
+$ source /opt/ros/melodic/setup.bash <br>
+or <br>
+$ source ~/.bashrc <br><br>
+$ roslaunch turtlesim_rotate union.launch <br>
 😀 enter the velocity, radius and direction! 😀
 
-
-
-
-
+<br> <br>
 
 # The picture of Node Graph
 
